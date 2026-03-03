@@ -17,5 +17,5 @@
 
 Bar Plot
 
-[Phrase Counts](trump_tweets copy.png)
+[Phrase Counts](trump_tweets.png)
 This graph shows that "Trump" is by far the most tweeted phrase from 2009 to 2018.
