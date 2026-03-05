@@ -248,5 +248,5 @@ with open("README.md", 'w') as f:
     f.write(table)
     f.write('\n\n')
     f.write('Bar Plot\n\n')
-    f.write(f'[Phrase Counts]({image_filename})\n')
+    f.write(f'![Phrase Counts]({trump_tweets.png})\n')
     f.write('This graph shows that "Trump" is by far the most tweeted phrase from 2009 to 2018.\n')
